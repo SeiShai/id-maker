@@ -26,7 +26,7 @@ for idx, entry in enumerate(data, 1):
     draw = ImageDraw.Draw(id_template)
 
     # Fields are the headers from gsheets
-    name = entry['Name']
+    name = entry['Name ']
     lrn = entry['LRN']
     student_number = entry['Student Number']
     college_program = entry['College Program']
@@ -38,6 +38,13 @@ for idx, entry in enumerate(data, 1):
         text_width = text_bbox[2] - text_bbox[0]
         x_position = (id_template.width - text_width) // 2
         draw.text((x_position, y_position), f"{text}", font=font, fill='black')
+
+    center(draw, name, 535)
+    center(draw, f"LRN: {lrn}", 710)
+    center(draw, student_number, 575)
+    center(draw, college_program, 750)
+    center(draw, contact_number, 620)
+    center(draw, f"Emergency: {emergency_contact_number}", 810)
 
     # Save the generated ID card
     output_path = f"{name}_ID_Card.jpg"
