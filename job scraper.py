@@ -16,10 +16,21 @@ sheet = client.open_by_key(spreadsheet_key).worksheet(worksheet_name)
 template_path = 'id template.png'
 id_template = Image.open(template_path).convert('RGB')
 
-font = ImageFont.truetype("arial.ttf", 16)
+font = ImageFont.truetype("Times new roman", 30)
 draw = ImageDraw.Draw(id_template)
 
 # collect the data from Google Sheets
 data = sheet.get_all_records()
+
+# Generate ID cards
+for entry in data:
+    # Fields are the headers from gsheets
+    name = entry['Name ']
+    address = entry['Address']
+    lrn = entry['LRN']
+    student_number = entry['Student Number']
+    college_program = entry['College Program']
+    contact_number = entry['Contact Number']
+    emergency_contact_number = entry['Emergency Contact Number']
 
 
