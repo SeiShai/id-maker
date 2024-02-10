@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stellar-cipher-413820",
+  "private_key_id": "564243d36b0baf649f31aac9a7d02ed57ab70e22",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEkg7xb3bmxQ19\n9Jb8YRQVzbVe/Yw38pE7WBQypOZ5fsD/i4xDBcUVlmLQ03yWGNrkBZTPHYq7VpAV\nY+MIXOvZ7bplY0/cwf7YlTZAU/tVrBOmr3rutjSYne+Wyd4oYQqLOYirCd1iMWFq\n2QEdIXTaDvIFrWla5ucQY2Jc4XSxRAZKo3Cggc442jFmbAl0i+yhEqZKVR4LU0Xp\nFJkJCZHtvolLRubjcZq9Zh6HbsOR0yym0r/XKV45F70Yxz5rw+VBULdoz8HctTFl\n6Agv6mOpRqrwPjdN0WqahSLpmfjZJGvCxrsK3HKwsTU0vbuKeQpgsBYn7vYECE1m\nnv/jpDoxAgMBAAECggEABFy9pdIbmTqsmevPlqM64pmm589dpaIz1I5fAUQMWDbk\n9MpnZhBCU857ZpPC7BhBORYa2CS1vvQ6N1dOTa4nHRm0woawvb8KYdkR2xZiB8dp\nxOVC0k911iCLlXFa2raomPclECDdTeq3ZuYCudEpFt2F7nRvHvF6h1ramcyEniht\nLg0I0Mh5ED0+eFNXAS4rLPhMQAP7GUqgAK1VZj37KqMrEdPJL8TkMlu+llav/QqZ\nvM1n3PxML0Lvro4ILz9N6UC9PEP/N8po6R7ruaaBJYrL7yawcA+XvWMYHF2JOAe2\nsBxw8XtL2GhyaeVsMboZAl/oW/jmp7v6qGffqsFo6QKBgQDi3f6FDhC8/Pg2KCD7\nqz7R23QByLzLGVKTERmpr/YMDag5h3+fuFRm6+15MlB5ECn6lIRLBzOQDWtSeKlj\n+pbUD7rgp/P64pGGSqWdp0vWtgmzUnVX7BIR4c1yIYtrjdSb/fGisLbVCUTDbrfs\n12pw1M5T+84hkXwHC4iHcNdHlQKBgQDd0BioF1MGQQptz0S6PgKng4n9d78HLg3j\nKpdc/BI/i3D7y3NujsGjs+kSpSsaN6scrsga6kaqd6xAHlLcftHIgeHVDQ2pdn5o\n6wBRnUzdV+5Ufr6W0+jxEcr0iUzAAV3JSXqkInGUM3a0WJjYdjNspZrjpZqcz7nw\n/0JOU+zRLQKBgQDRt9O73ge9HMC7F5d97oyw5IQ1zgIwYaVCzHEDuuThuZJENCzX\nUke7qOcqvUdE0ptrx/UPgoW46Z7Ha0FzacgaGrxvRvM0flN2Z/T3axqhTkBjY5uT\n/mep3inUEoxWjZL37OV9towdHWdSnjwqFeyQhziAzGp9/4Y+4PuB8N8hjQKBgQCf\nAz2J0x67zwiw6/OzKB0zBYN4581UUlm2TqQwDqzuTQJ0H8firAh5WNJvgWTC6MGM\nUGg3k1eRgTVEyfhRBcFSYnoJB9CRedbpU/7og0HFM/IxNKNg8Q1/NGgwofUZeGFJ\nmZmH7QFLYxFn/FOmaiY3bwj4xZFvdSMxd2yLRnLxCQKBgAoyVpkmtOZKs6ljiaXR\nCKpvmJK47nX4FoNqgdzmrELRVGPfVe0RBAngdGHSyz1z1f2cWrzLuwXJ8mku/aCg\nCC9wh2C425nDf90jES99yTuYS62UZq37BQ7Fv6TM1FhoYBfmCRgeBJEYqfC1J/k1\nnOJZREAT5xYJsgO0Zbw/Pajc\n-----END PRIVATE KEY-----\n",
+  "client_email": "for-id-making@stellar-cipher-413820.iam.gserviceaccount.com",
+  "client_id": "117575493137472643575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/for-id-making%40stellar-cipher-413820.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
